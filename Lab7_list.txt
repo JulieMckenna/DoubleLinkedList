@@ -1,0 +1,13 @@
+James Pomerene 2006
+Mateo Valero 2007
+David Patterson 2208
+Joel Emer 2009
+William Dally 2010
+Gurindar Sohi 2011
+Algirdas Avizienis 2012
+Jim Goodman 2013
+Trevor Mudge 2014
+Norman Jouppi 2015
+Uri Weiser 2016
+Charles Thacker 2017
+Susan Eggers 2018
